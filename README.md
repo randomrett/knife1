@@ -1,5 +1,5 @@
 # knife1
-this is a git repo.
+this is a git repo
 import os
 import requests
 from flask import Flask, request, jsonify, send_from_directory, Response
